@@ -1,3 +1,11 @@
+This pinout is set for the diy device, we are building in the smoochie board environment. I have modified it to work with the guy device, for simplicity over creating a new environment. 
+
+
+
+
+
+
+
 # Launcher
 Application launcher for M5Stack, Lilygo, SeeedStudio, Waveshare, CYD, Marauder, and many other ESP32 devices.
 
